@@ -1,0 +1,9 @@
+clc
+clear all
+close all
+%%FUncin anonim
+z=
+f=@(x) x^2+3*x+2;
+valor = f(2)
+
+%%
